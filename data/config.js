@@ -1,35 +1,23 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  title: 'Imran Syafiq - Software Engineer',
+  description: 'Hey, I\'m Syafiq. I\'m a Software Engineer, I love to build mobile application web application and api development'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
-  desc: "I'm a web developer and designer building things people love."
+  title: "Hey there! I'm Imran Syafiq",
+  desc: "I'm a Software Engineer and I love to build mobile application and web application and api development"
 };
 
 export const projects = {
   title: 'My Projects',
-  desc: "Here are some of my favorite projects that I've worked on.",
+  desc: "Here are some of my favorite projects that I am currently working on.",
   projects: [
     {
-      title: 'Lakers Official',
-      description: 'Home to the Los-Angeles Lakers',
-      link: 'https://lakers.com',
-      github: ''
+      title: 'API Architecture',
+      description: 'This is API Architecture that consists of authentication with Json Web Token and endpoints for fetching, sending, updating and deleting products',
+      link: 'https://github.com/Specultra2/API-Architecture',
+      github: 'https://github.com/Specultra2/API-Architecture'
     },
-    {
-      title: 'Cool App',
-      description: 'A cool app!',
-      link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
-    },
-    {
-      title: 'Another app',
-      description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
-    }
   ]
 };
 
@@ -39,9 +27,12 @@ export const stack = {
     'HTML',
     'CSS',
     'JavaScript',
-    'Typescript',
+    'React Native',
     'React',
     'NextJS',
+    'NodeJS',
+    'ExpressJS',
+    'Laravel',
     'TailwindCSS',
     'Firebase',
     'Git'
@@ -50,8 +41,7 @@ export const stack = {
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  email: 'imransyafiq25@gmail.com',
+  github: 'https://github.com/Specultra2',
+  linkedin: 'https://www.linkedin.com/in/imran-syafiq-33065414b/'
 };
