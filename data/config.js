@@ -43,5 +43,5 @@ export const contact = {
   title: 'Contact Me',
   email: 'imransyafiq25@gmail.com',
   github: 'https://github.com/Specultra2',
-  linkedin: 'https://www.linkedin.com/in/imran-syafiq-33065414b/'
+  linkedin: 'imran-syafiq-33065414b'
 };
