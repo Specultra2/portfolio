@@ -16,7 +16,7 @@ export const projects = {
       title: 'API Architecture',
       description: 'This is API Architecture that consists of authentication with Json Web Token and endpoints for fetching, sending, updating and deleting products',
       link: 'https://github.com/Specultra2/API-Architecture',
-      github: 'https://github.com/Specultra2/API-Architecture'
+      github: '/Specultra2/API-Architecture'
     },
   ]
 };
